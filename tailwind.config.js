@@ -27,7 +27,7 @@ export default {
       },
       backgroundImage: {
         pattern:
-          "url('../images/bg-pattern-top-desktop.svg'),url('../images/bg-pattern-bottom-desktop.svg')",
+          "url('./images/bg-pattern-top-desktop.svg'),url('./images/bg-pattern-bottom-desktop.svg')",
       },
     },
   },
